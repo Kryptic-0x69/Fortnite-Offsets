@@ -2,7 +2,7 @@
 // Date Of Update: 02/11/2025
 
 bool is_visible(uintptr_t mesh, float tolerance = 0.06f) {
-	double Seconds = read<double>(pointer->uworld + 0x150);
+	double Seconds = read<double>(pointer->uworld + 0x148);
 	float LastRenderTime = read<float>(mesh + 0x30C);
 	return Seconds - LastRenderTime <= tolerance;
 }
