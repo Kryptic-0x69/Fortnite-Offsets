@@ -1,4 +1,4 @@
-// Fortnites Latest Update ++Fortnite+Release-33.30-CL-39435251-Windows
+// Fortnites Latest Update ++Fortnite+Release-idk-CL-39435251-Windows
 // Date Of Update: 02/21/2025
 
 uintptr_t UWORLD = 0x174A8638;
