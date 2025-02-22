@@ -1,8 +1,8 @@
-// Fortnites Latest Update ++Fortnite+Release-33.30-CL-39435251-Windows
-// Date Of Update: 02/11/2025
+// Fortnites Latest Update ++Fortnite+Release-33.idk-CL-39435251-Windows
+// Date Of Update: 02/21/2025
 
 bool is_visible(uintptr_t mesh, float tolerance = 0.06f) {
-	double Seconds = read<double>(pointer->uworld + 0x148);
-	float LastRenderTime = read<float>(mesh + 0x30C);
+	double Seconds = read<double>(pointer->uworld + 0x160);
+	float LastRenderTime = read<float>(mesh + 0x32C);
 	return Seconds - LastRenderTime <= tolerance;
 }
