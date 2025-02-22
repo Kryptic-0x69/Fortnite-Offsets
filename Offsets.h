@@ -1,9 +1,9 @@
 // Fortnites Latest Update ++Fortnite+Release-33.30-CL-39435251-Windows
-// Date Of Update: 02/11/2025
+// Date Of Update: 02/21/2025
 
-uintptr_t UWORLD = 0x16348C08;
-uintptr_t GAME_INSTANCE = 0x1F8;
-uintptr_t GAME_STATE = 0x180;
+uintptr_t UWORLD = 0x174A8638;
+uintptr_t GAME_INSTANCE = 0x208;
+uintptr_t GAME_STATE = 0x190;
 uintptr_t MESH = 0x328;
 uintptr_t LOCAL_PLAYERS = 0x38;
 uintptr_t PLAYER_CONTROLLER = 0x30;
@@ -14,14 +14,14 @@ uintptr_t PLAYER_STATE = 0x2C8;
 uintptr_t RELATIVE_LOCATION = 0x138;
 uintptr_t PLAYER_ARRAY = 0x2C0;
 uintptr_t COMPONENT_TO_WORLD = 0x1E0;
-uintptr_t BONE_ARRAY = 0x5A8;
+uintptr_t BONE_ARRAY = 0x5C8;
 uintptr_t TEAM_INDEX = 0x1259;
 uintptr_t BONE_ARRAY_CACHE = 0x5B8;
 uintptr_t LAST_SUBMIT_TIME = 0x2E8;
 uintptr_t LAST_SUBMIT_TIME_ON_SCREEN = 0x2F0;
 uintptr_t VELOCITY = 0x180;
 uintptr_t CURRENT_WEAPON = 0xA80;
-uintptr_t WEAPON_DATA = 0x5E8;
+uintptr_t WEAPON_DATA = 0x600;
 uintptr_t DISPLAY_NAME = 0x40;
 uintptr_t HABANERO_COMPONENT = 0xA38;
 uintptr_t RANKED_PROGRESS = 0xD0;
