@@ -1,9 +1,9 @@
-// Fortnites Latest Update ++Fortnite+Release-idk-CL-39435251-Windows
-// Date Of Update: 02/21/2025
+// Fortnites Latest Update ++Fortnite+Release-34.00-CL-40228973-Windows
+// Date Of Update: 02/28/2025
 
-uintptr_t UWORLD = 0x174A8638;
-uintptr_t GAME_INSTANCE = 0x208;
-uintptr_t GAME_STATE = 0x190;
+uintptr_t UWORLD = 0x169641B8;
+uintptr_t GAME_INSTANCE = 0x218;
+uintptr_t GAME_STATE = 0x1A0;
 uintptr_t MESH = 0x328;
 uintptr_t LOCAL_PLAYERS = 0x38;
 uintptr_t PLAYER_CONTROLLER = 0x30;
