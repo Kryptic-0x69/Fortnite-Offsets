@@ -1,4 +1,4 @@
 # Fortnite-Offsets
 ## Latest Fortnite Offsets That Are Always Updated.
 
-Latest Version: ``++Fortnite+Release-33.30-CL-39435251-Windows``
+Latest Version: ``++Fortnite+Release-34.00-CL-40228973-Windows``
